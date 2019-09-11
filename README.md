@@ -4,7 +4,7 @@ Learn Git
     ** add:
         -- git add <arquivo>
         -- git add *
-        
+
     ** commit: 
         -- git commit -m "comentários das alterações"
 
@@ -21,6 +21,6 @@ Learn Git
     **  remova o branch da seguinte forma
         -- git branch -d funcionalidade_1   
         return: Deleted branch funcionalidade_1 (was bc1b2d2).
-
+    ** Mesclando
 
 
