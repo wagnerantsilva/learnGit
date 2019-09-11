@@ -1,0 +1,10 @@
+version: '2'
+services:
+  node-api:
+    build: .
+    command: npm run start
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - "80:8081"
