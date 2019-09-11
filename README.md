@@ -23,5 +23,8 @@ Learn Git
         return: Deleted branch funcionalidade_1 (was bc1b2d2).
     **para atualizar seu repositório local com a mais nova versão, execute 
         -- git pull
+        return: Already up to date.
+    ** para fazer merge de um outro branch ao seu branch ativo (ex. master), use
+        -- git merge <branch>
 
 
