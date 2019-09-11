@@ -21,6 +21,7 @@ Learn Git
     **  remova o branch da seguinte forma
         -- git branch -d funcionalidade_1   
         return: Deleted branch funcionalidade_1 (was bc1b2d2).
-    ** Mesclando
+    **para atualizar seu repositório local com a mais nova versão, execute 
+        -- git pull
 
 
